@@ -1,4 +1,4 @@
-# Medical QA Bot
+# Medical Document QA Bot
 
 This project implements a simple yet powerful Medical Question-Answering (QA) bot using LangChain, Chainlit, and Hugging Face models. The bot is designed to answer medical-related queries based on a pre-trained language model and a Faiss vector store.
 

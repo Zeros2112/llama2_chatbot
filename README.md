@@ -2,6 +2,9 @@
 ## Overview
 This application allows users to interact with a CSV (Comma-Separated Values) file using the Llama2 conversational model. It leverages Streamlit for the user interface, Hugging Face Transformers for language modeling, and FAISS for efficient vector search.
 
+## Demo 
+[Google drive](https://drive.google.com/drive/folders/1KoKM79kUXy_fIcAaqkSSsShk9ol8GBJa?usp=sharing)
+
 ## Features
 * CSV Upload: Users can upload a CSV file containing data that they want to interact with.
 
